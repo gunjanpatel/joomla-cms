@@ -1,5 +1,5 @@
 Joomla! CMS™ [![Analytics](https://ga-beacon.appspot.com/UA-544070-3/joomla-cms/readme)](https://github.com/igrigorik/ga-beacon)
-====================
+==================== 
 
 Build Status
 ---------------------
